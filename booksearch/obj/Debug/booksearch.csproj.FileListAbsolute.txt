@@ -1,0 +1,12 @@
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\bin\Debug\booksearch.exe.config
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\bin\Debug\booksearch.exe
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\bin\Debug\booksearch.pdb
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\bin\Debug\itextsharp.dll
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\bin\Debug\itextsharp.xml
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\obj\Debug\booksearch.csproj.AssemblyReference.cache
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\obj\Debug\booksearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\obj\Debug\booksearch.csproj.CoreCompileInputs.cache
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\obj\Debug\booksearch.csproj.CopyComplete
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\obj\Debug\booksearch.exe
+C:\Users\YahyaElMabroukيحي\source\repos\booksearch\booksearch\obj\Debug\booksearch.pdb
